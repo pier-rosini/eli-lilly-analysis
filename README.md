@@ -1,4 +1,4 @@
-# Eli Lilly - INDEPENDENT STRUCTURAL ANALYSIS, OPERATIONAL CONSTRAINTS, AND STRATEGIC OUTLOOK
+# Eli Lilly - Independent structural analysis, operational constraints, and strategic outlook
 
 This repository contains an independent, data-driven analysis of Eli Lilly based exclusively on publicly available information, 
 including annual reports, earnings materials, and regulatory filings. 
